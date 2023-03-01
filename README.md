@@ -21,7 +21,7 @@
 
 💼<a href="https://surya2697.github.io/" target="_blank">Portfolio</a> - https://surya2697.github.io/
 
-🌐<a href="https://www.linkedin.com/in/surya-ahire-36541819b/" target="_blank" >LinkedIn</a> - https://www.linkedin.com/in/surya-ahire-36541819b/
+🌐<a href="https://www.linkedin.com/in/surya-ahire-36541819b/" target="_blank" >LinkedIn</a>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/200.webp?cid=ecf05e47hnwrvx0r73dh20fctqpt9s9he8eyh51lflx0z9aw&rid=200.webp&ct=g " />
 
