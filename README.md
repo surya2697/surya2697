@@ -1,8 +1,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya2697&label=Profile%20views&color=0e75b6&style=flat" alt="Surya" /> </p>
-
-![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+<img height="400px" width="80%" margin="auto"  src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e47ahs0r3db65ste91u224iui0ednn9l4bg8sajm4g2&rid=200w.webp&ct=g" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Surya Ahire </h1>
 <h4 align="center">I'm a Passionate and Dedicated Full Stack Web developer skilled in MERN Stack ✨. </h4>
